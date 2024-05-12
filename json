@@ -1,0 +1,20 @@
+[
+    {
+        "model_number": "M123",
+        "name": "Mobile 1",
+        "price": "$200",
+        "image": "mobile1.jpg"
+    },
+    {
+        "model_number": "M456",
+        "name": "Mobile 2",
+        "price": "$300",
+        "image": "mobile2.jpg"
+    },
+    {
+        "model_number": "M789",
+        "name": "Mobile 3",
+        "price": "$400",
+        "image": "mobile3.jpg"
+    }
+]
